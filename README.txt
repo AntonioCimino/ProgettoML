@@ -1,5 +1,5 @@
 
-**Machine learning vs relaxed functional dependencies**
+# Machine learning vs relaxed functional dependencies
 
 Il file main serve a visualizzare i grafici presenti sull'articolo. Nel file main sono bloccate le funzioni
 per generare i risultati perchè mancano i dataset utilizzati visto il peso di oltre 300Mb. Insieme ai dataset mancano
